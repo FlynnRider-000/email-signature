@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 163 18.3">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #00323b;
+        font-family: GTWalsheimPro-Light, 'GT Walsheim Pro';
+        font-size: 16px;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(36.5 14.6)"><tspan x="0" y="0">ww</tspan><tspan class="cls-4" x="23.23" y="0">w</tspan><tspan x="34.21" y="0">.bal</tspan><tspan class="cls-1" x="61.25" y="0">f</tspan><tspan x="66.54" y="0">en</tspan><tspan class="cls-6" x="83.79" y="0">e</tspan><tspan class="cls-5" x="91.71" y="0">.</tspan><tspan class="cls-3" x="95.93" y="0">c</tspan><tspan x="104.24" y="0">om</tspan></text>
+  </g>
+</svg>

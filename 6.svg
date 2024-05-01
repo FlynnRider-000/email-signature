@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143.71 38.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00323b;
+        font-family: GTWalsheimPro-Medium, 'GT Walsheim Pro';
+        font-size: 36px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(0 30.6)"><tspan class="cls-2" x="0" y="0">B</tspan><tspan x="20.52" y="0">ALFENE</tspan></text>
+  </g>
+</svg>

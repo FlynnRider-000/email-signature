@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 163 18.3">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #00323b;
+        font-family: GTWalsheimPro-Light, 'GT Walsheim Pro';
+        font-size: 16px;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(47.17 14.6)"><tspan x="0" y="0">+</tspan><tspan class="cls-3" x="8.06" y="0">6</tspan><tspan x="16.77" y="0">1 </tspan><tspan class="cls-1" x="26.62" y="0">4</tspan><tspan x="35.55" y="0">22 868 366</tspan></text>
+  </g>
+</svg>
