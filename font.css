@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'GTWalsheimPro-UltraLight';
+    src: url('https://raw.githubusercontent.com/FlynnRider-000/email-signature/master/gt-walsheim-pro/GTWalsheimProUltraLight.OTF') format('truetype');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'GTWalsheimPro-Medium';
+    src: url('https://raw.githubusercontent.com/FlynnRider-000/email-signature/master/gt-walsheim-pro/GTWalsheimProMedium.OTF') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'GTWalsheimPro-Thin';
+    src: url('https://raw.githubusercontent.com/FlynnRider-000/email-signature/master/gt-walsheim-pro/GTWalsheimProThin.OTF') format('truetype');
+    font-weight: 200;
+}
