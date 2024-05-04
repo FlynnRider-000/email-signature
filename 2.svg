@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268.09 116.23">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.26 181.6">
   <defs>
     <style>
       .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
         letter-spacing: 0em;
       }
 
-      .cls-2, .cls-3, .cls-4, .cls-5 {
-        fill: #00323b;
-      }
-
-      .cls-2, .cls-4 {
-        font-size: 16px;
-      }
-
-      .cls-2, .cls-5 {
-        font-family: GTWalsheimPro-Light, 'GT Walsheim Pro';
-        font-weight: 300;
-      }
-
-      .cls-6 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-7 {
+      .cls-3 {
         letter-spacing: 0em;
       }
 
-      .cls-8 {
-        letter-spacing: 0em;
-      }
-
-      .cls-9 {
-        letter-spacing: -.03em;
-      }
-
-      .cls-10 {
-        letter-spacing: 0em;
-      }
-
-      .cls-11 {
+      .cls-4 {
         letter-spacing: -.01em;
       }
 
-      .cls-12 {
+      .cls-5 {
         letter-spacing: 0em;
       }
 
-      .cls-13 {
-        letter-spacing: -.05em;
+      .cls-6 {
+        letter-spacing: -.01em;
       }
 
-      .cls-14 {
+      .cls-7 {
         letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        font-family: GTWalsheimPro-UltraLight, 'GT Walsheim Pro';
+        font-weight: 100;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: #00323b;
+      }
+
+      .cls-11, .cls-14 {
+        font-size: 21px;
       }
 
       .cls-15 {
-        letter-spacing: -.02em;
+        letter-spacing: -.01em;
       }
 
       .cls-16 {
-        letter-spacing: 0em;
+        letter-spacing: -.02em;
       }
 
       .cls-17 {
-        letter-spacing: -.05em;
+        letter-spacing: .01em;
       }
 
       .cls-18 {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .cls-19 {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .cls-20 {
-        letter-spacing: 0em;
+        letter-spacing: .02em;
       }
 
       .cls-21 {
         letter-spacing: 0em;
       }
 
-      .cls-3, .cls-4 {
+      .cls-22 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-12, .cls-13 {
+        font-size: 38px;
+      }
+
+      .cls-12, .cls-14 {
         font-family: GTWalsheimPro-Medium, 'GT Walsheim Pro';
         font-weight: 500;
       }
 
-      .cls-3, .cls-5 {
-        font-size: 26px;
-      }
-
-      .cls-22 {
-        letter-spacing: 0em;
-      }
-
       .cls-23 {
-        letter-spacing: -.02em;
+        letter-spacing: -.1em;
       }
 
       .cls-24 {
-        letter-spacing: -.01em;
+        letter-spacing: 0em;
       }
 
       .cls-25 {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .cls-26 {
@@ -113,23 +113,40 @@
       }
 
       .cls-27 {
-        letter-spacing: -.11em;
+        letter-spacing: .01em;
       }
 
       .cls-28 {
-        letter-spacing: -.03em;
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        font-family: GTWalsheimPro-Thin, 'GT Walsheim Pro';
+        font-weight: 200;
       }
 
       .cls-29 {
-        letter-spacing: -.01em;
+        letter-spacing: -.04em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-32 {
+        letter-spacing: .01em;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
-    <text class="cls-3" transform="translate(0 22.1)"><tspan class="cls-9" x="0" y="0" xml:space="preserve">     </tspan><tspan x="28.6" y="0">A</tspan><tspan class="cls-29" x="44.28" y="0">n</tspan><tspan x="58.63" y="0">thony </tspan><tspan class="cls-8" x="133.41" y="0">E</tspan><tspan x="147.29" y="0">d</tspan><tspan class="cls-25" x="162.68" y="0">w</tspan><tspan x="182.02" y="0">a</tspan><tspan class="cls-15" x="197.42" y="0">r</tspan><tspan x="206.41" y="0">ds</tspan></text>
-    <text class="cls-5" transform="translate(0 48.07)"><tspan class="cls-13" x="0" y="0" xml:space="preserve">     </tspan><tspan x="26.65" y="0">Managing Di</tspan><tspan class="cls-24" x="174.77" y="0">r</tspan><tspan class="cls-1" x="183.66" y="0">e</tspan><tspan class="cls-12" x="197.13" y="0">c</tspan><tspan class="cls-20" x="210.47" y="0">t</tspan><tspan x="219.25" y="0">or</tspan></text>
-    <text class="cls-4" transform="translate(0 76.53)"><tspan x="0" y="0" xml:space="preserve">       </tspan><tspan class="cls-19" x="28" y="0">Le</tspan><tspan class="cls-6" x="43.97" y="0">v</tspan><tspan x="51.5" y="0">el </tspan><tspan class="cls-7" x="67.92" y="0">2</tspan><tspan class="cls-27" x="77.06" y="0">7</tspan><tspan x="83.73" y="0">, 101 Collins </tspan><tspan class="cls-16" x="172.69" y="0">S</tspan><tspan x="181.36" y="0">t</tspan><tspan class="cls-11" x="187.21" y="0">r</tspan><tspan class="cls-22" x="192.83" y="0">e</tspan><tspan class="cls-21" x="201.42" y="0">e</tspan><tspan x="209.78" y="0">t</tspan></text>
-    <text class="cls-2" transform="translate(0 94.53)"><tspan x="0" y="0" xml:space="preserve">       Melbourne VIC 300</tspan><tspan class="cls-28" x="165.1" y="0">0</tspan><tspan x="174.25" y="0">, </tspan><tspan class="cls-26" x="183" y="0">A</tspan><tspan x="192.19" y="0">u</tspan><tspan class="cls-14" x="201.2" y="0">s</tspan><tspan x="207.9" y="0">t</tspan><tspan class="cls-19" x="213.44" y="0">r</tspan><tspan x="218.8" y="0">alia</tspan></text>
-    <text class="cls-2" transform="translate(0 112.53)"><tspan x="0" y="0" xml:space="preserve">       </tspan><tspan class="cls-10" x="28.56" y="0">P</tspan><tspan x="37.87" y="0">O </tspan><tspan class="cls-16" x="54.75" y="0">B</tspan><tspan class="cls-17" x="63.87" y="0">O</tspan><tspan x="75.9" y="0">X 565 Flinde</tspan><tspan class="cls-23" x="163.21" y="0">r</tspan><tspan x="168.6" y="0">s </tspan><tspan class="cls-18" x="179.75" y="0">L</tspan><tspan x="187.51" y="0">ane 8009</tspan></text>
+    <text class="cls-12" transform="translate(.9 32.3)"><tspan x="0" y="0">A</tspan><tspan class="cls-6" x="22.91" y="0">n</tspan><tspan x="43.89" y="0">thony </tspan><tspan class="cls-18" x="153.18" y="0">E</tspan><tspan x="173.47" y="0">d</tspan><tspan class="cls-7" x="195.96" y="0">w</tspan><tspan x="224.24" y="0">a</tspan><tspan class="cls-16" x="246.73" y="0">r</tspan><tspan x="259.88" y="0">ds</tspan></text>
+    <text class="cls-13" transform="translate(0 79.98)"><tspan class="cls-19" x="0" y="0">Managing Di</tspan><tspan class="cls-21" x="215.61" y="0">r</tspan><tspan class="cls-25" x="228.53" y="0">ec</tspan><tspan class="cls-2" x="267.37" y="0">t</tspan><tspan class="cls-19" x="279.83" y="0">or</tspan></text>
+    <text class="cls-14" transform="translate(2.23 125.69)"><tspan class="cls-15" x="0" y="0">Le</tspan><tspan class="cls-10" x="21.29" y="0">v</tspan><tspan class="cls-28" x="31.35" y="0">el </tspan><tspan class="cls-30" x="53.4" y="0">2</tspan><tspan class="cls-23" x="65.56" y="0">7</tspan><tspan class="cls-9" x="74.49" y="0">, 101 Collins </tspan><tspan class="cls-5" x="193.6" y="0">S</tspan><tspan class="cls-28" x="205.15" y="0">t</tspan><tspan class="cls-24" x="213" y="0">r</tspan><tspan class="cls-20" x="220.54" y="0">e</tspan><tspan class="cls-26" x="231.98" y="0">e</tspan><tspan class="cls-28" x="243.12" y="0">t</tspan></text>
+    <text class="cls-11" transform="translate(3 151.62)"><tspan class="cls-27" x="0" y="0">Melbourne VIC 300</tspan><tspan class="cls-29" x="180.87" y="0">0</tspan><tspan class="cls-27" x="192.74" y="0">, Au</tspan><tspan class="cls-8" x="227.07" y="0">s</tspan><tspan class="cls-27" x="235.58" y="0">t</tspan><tspan class="cls-24" x="242.69" y="0">r</tspan><tspan class="cls-27" x="249.77" y="0">alia</tspan></text>
+    <text class="cls-11" transform="translate(2.81 176.56)"><tspan class="cls-32" x="0" y="0">PO </tspan><tspan class="cls-3" x="35.13" y="0">B</tspan><tspan class="cls-31" x="47.23" y="0">O</tspan><tspan class="cls-32" x="63.46" y="0">X 565 Flinde</tspan><tspan class="cls-4" x="178.67" y="0">r</tspan><tspan class="cls-1" x="185.62" y="0">s </tspan><tspan class="cls-22" x="200.55" y="0">L</tspan><tspan class="cls-17" x="210.86" y="0">ane 8009</tspan></text>
   </g>
 </svg>
